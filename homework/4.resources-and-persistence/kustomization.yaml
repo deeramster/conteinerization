@@ -1,0 +1,5 @@
+resources:
+  - postgres-secrets.yaml
+  - postgres-storage.yaml
+  - postgres.yaml
+  - postgres-service.yaml
